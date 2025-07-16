@@ -125,5 +125,3 @@ This documentation file explaining the project and requirements.
 
 ---
 
-### **Contact**
-For any questions or clarifications, feel free to contact the teaching assistant (Eng. Sajed).
